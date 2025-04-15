@@ -11,7 +11,7 @@ I created this project while learning frontend development as a beginner.
 
 ## 📁 Technologies Used
 - HTML5
-- CSS3
+- TAILWINDCSS
 
 ## 📌 Note
 This project is not responsive and was created purely for learning purposes.
