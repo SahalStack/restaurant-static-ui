@@ -1,6 +1,6 @@
 # 🍽️ FOODI Restaurant UI
 
-This is a simple static restaurant website UI built using **HTML** and **CSS**.  
+This is a simple static restaurant website UI built using **HTML** and **TailwindCSS**.  
 I created this project while learning frontend development as a beginner.
 
 ## 💡 Features
